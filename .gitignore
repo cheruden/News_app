@@ -1,0 +1,7 @@
+virtual/
+app/__pycache__/
+app/main/__pycache__/
+__pycache__/
+.vscode
+app/templates
+virtual/
