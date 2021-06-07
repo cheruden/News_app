@@ -8,19 +8,19 @@ Display articles based on a single source | ABC on input form         | Display 
 Read an article on its url page           | CLick 'Read more' button  | Redirect to respective aricles homepage |
 
 ### LIVE PREVIEW
-Here is a working live demo: https://News_appkwa.herokuapp.com/
+Here is a working live demo: https://latest-newshighlightskwa.herokuapp.com/
 
 #### SITE
 
 ##### Landing Page
-At the [homepage](https://News_appkwa.herokuapp.com/), the user is able to see various news sources
+At the [homepage](https://latest-newshighlightskwa.herokuapp.com/), the user is able to see various news sources
 
 
 
 
 
 
-# [Usage](https://News_appkwa.herokuapp.com/)
+# [Usage](https://latest-newshighlightkwa.herokuapp.com/)
 
 ## Development
 Want to contribute? Great!
@@ -36,9 +36,9 @@ To fix a bug or enhance an existing module, follow these steps:
 - Create a Pull Request
 
 ## Bug / Feature Request
-If you find a bug, kindly open an issue [here](https://github.com/cheruden/flask-News_app/issues/new)
+If you find a bug, kindly open an issue [here](https://github.com/cheruden/flask-latest-newshighlights/issues/new)
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/cheruden/flask-News_app/issues/new).
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/cheruden/flask-latest-newshighlight/issues/new).
 
 # Built with
 1. [Flask](http://flask.pocoo.org/) - For both backend and fronted.
