@@ -8,19 +8,19 @@ Display articles based on a single source | ABC on input form         | Display 
 Read an article on its url page           | CLick 'Read more' button  | Redirect to respective aricles homepage |
 
 ### LIVE PREVIEW
-Here is a working live demo: https://latest-newshighlightskwa.herokuapp.com/
+Here is a working live demo: https://latest-newshighlights.herokuapp.com/
 
 #### SITE
 
 ##### Landing Page
-At the [homepage](https://latest-newshighlightskwa.herokuapp.com/), the user is able to see various news sources
+At the [homepage](https://latest-newshighlights.herokuapp.com/), the user is able to see various news sources
 
 
 
 
 
 
-# [Usage](https://latest-newshighlightkwa.herokuapp.com/)
+# [Usage](https://latest-newshighlights.herokuapp.com/)
 
 ## Development
 Want to contribute? Great!
@@ -44,8 +44,8 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 1. [Flask](http://flask.pocoo.org/) - For both backend and fronted.
 1. [News API](https://newsapi.org/). News API provides a wonderful API that allows you to search worldwide news articles and headlines from all over the web in real-time.
 
-## GIKO Management Team 
-### Karangu Lucas Wairore 
+## @cheruden News 
+### Cheruiyot Dennis Kipkorir 
 ####    Aspiring full-stack developer
 
 [MIT License](LICENSE)
